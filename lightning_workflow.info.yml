@@ -1,0 +1,8 @@
+name: 'Lightning Workflow'
+core_version_requirement: '^9.0.6 || ^10'
+type: module
+description: 'Tools to improve your content workflow.'
+package: Lightning
+dependencies:
+  - drupal:content_moderation
+  - drupal:node
